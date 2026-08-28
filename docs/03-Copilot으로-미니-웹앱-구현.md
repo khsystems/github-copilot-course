@@ -30,6 +30,8 @@
 
 페이지 위쪽의 **Use this template**를 누르고 **Create a new repository**를 선택합니다.
 
+![연습 저장소 오른쪽 위의 Use this template 버튼](images/03-use-template.png)
+
 저장소 이름을 정한 뒤 공개 범위를 선택하고 **Create repository**를 누릅니다. 이름을 아직 정하지 못했다면 `my-copilot-project`를 사용해도 됩니다. 처음에는 **Private**으로 만들고, 공개해도 되는 내용인지 확인한 뒤 바꾸어도 됩니다.
 
 ### 3단계: 내 저장소 주소 복사하기
@@ -39,6 +41,8 @@
 ### 4단계: Visual Studio Code로 가져오기
 
 Visual Studio Code를 열고 **View → Command Palette**를 선택합니다. `Git: Clone`을 입력해 선택한 뒤, 복사한 저장소 주소를 붙여 넣습니다.
+
+![Visual Studio Code 시작 화면의 Clone Git Repository 버튼](images/03-vscode-clone.png)
 
 컴퓨터에서 저장할 위치를 고르고 복제가 끝나면 **Open**을 선택합니다. 복제(Clone)는 GitHub에 있는 저장소를 내 컴퓨터로 가져오는 작업입니다.
 
